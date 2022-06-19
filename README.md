@@ -1,2 +1,2 @@
 # NYCU-PRML
-# Briefly record the courses I took
+Briefly record the courses I took
