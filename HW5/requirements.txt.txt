@@ -1,0 +1,7 @@
+conda 4.10.3
+pip 21.2.2
+Python 3.7.13
+numpy 1.21.5
+torch 1.1.0
+torchvision 0.3.0
+Sklearn verion is 1.0.2
